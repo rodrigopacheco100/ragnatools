@@ -1,0 +1,3 @@
+{
+  "extends": "@ragnatools/config/tsconfig.base.json"
+}
